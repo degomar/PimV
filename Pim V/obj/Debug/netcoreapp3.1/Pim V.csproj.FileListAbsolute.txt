@@ -1,0 +1,13 @@
+D:\Faculdade\Pim V\Programa de reservas\Pim V\Pim V\bin\Debug\netcoreapp3.1\Pim V.exe
+D:\Faculdade\Pim V\Programa de reservas\Pim V\Pim V\bin\Debug\netcoreapp3.1\Pim V.deps.json
+D:\Faculdade\Pim V\Programa de reservas\Pim V\Pim V\bin\Debug\netcoreapp3.1\Pim V.runtimeconfig.json
+D:\Faculdade\Pim V\Programa de reservas\Pim V\Pim V\bin\Debug\netcoreapp3.1\Pim V.runtimeconfig.dev.json
+D:\Faculdade\Pim V\Programa de reservas\Pim V\Pim V\bin\Debug\netcoreapp3.1\Pim V.dll
+D:\Faculdade\Pim V\Programa de reservas\Pim V\Pim V\bin\Debug\netcoreapp3.1\Pim V.pdb
+D:\Faculdade\Pim V\Programa de reservas\Pim V\Pim V\obj\Debug\netcoreapp3.1\Pim V.csprojAssemblyReference.cache
+D:\Faculdade\Pim V\Programa de reservas\Pim V\Pim V\obj\Debug\netcoreapp3.1\Pim V.csproj.CoreCompileInputs.cache
+D:\Faculdade\Pim V\Programa de reservas\Pim V\Pim V\obj\Debug\netcoreapp3.1\Pim V.AssemblyInfoInputs.cache
+D:\Faculdade\Pim V\Programa de reservas\Pim V\Pim V\obj\Debug\netcoreapp3.1\Pim V.AssemblyInfo.cs
+D:\Faculdade\Pim V\Programa de reservas\Pim V\Pim V\obj\Debug\netcoreapp3.1\Pim V.dll
+D:\Faculdade\Pim V\Programa de reservas\Pim V\Pim V\obj\Debug\netcoreapp3.1\Pim V.pdb
+D:\Faculdade\Pim V\Programa de reservas\Pim V\Pim V\obj\Debug\netcoreapp3.1\Pim V.genruntimeconfig.cache
